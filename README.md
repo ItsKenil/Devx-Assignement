@@ -27,18 +27,10 @@ The app consumes a public products API and implements client-side **search, filt
 - node (use version from `.nvmrc`)
 - npm
 
----
-
 ### 2️⃣ Install Dependencies
 
-```bash
-npm install
+- npm install
 
----
+### 3️⃣ Run Server On Localhost
 
-### 3️⃣ Run Server On Local Server
-
-```bash
-npm run dev
-
----
+- npm run dev
